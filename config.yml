@@ -1,0 +1,13 @@
+CryptoInformation:
+  name: "BTC"
+  currency: "USD"
+  api_url: "https://rest.coinapi.io/v1/exchangerate/"
+  api_key: "E6166882-8300-4E1A-940F-207569236FB4"
+
+IFTTT:
+  url: "https://hooks.zapier.com/hooks/catch/20469947/210qssu/"
+
+Thresholds:
+  upper_bound: 67000
+  lower_bound: 60000
+  message_cycle: 1
